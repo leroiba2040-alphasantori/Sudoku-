@@ -139,3 +139,4 @@ sb.append("\n");
 return sb.toString();
 }
 }
+// add the isValid method and isSolved method 
